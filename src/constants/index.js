@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Efficient and easy to use ticket booking system",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Our system offers a friendly-user interface to allow people to pay and book bus tickets, so thay they have to move only when they go to take their journey allowing a smooth travel experience for our users",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "All our transactions occur paperlessly and through a secure network, so your information is yours and only yours making sure no one can use your info or tickets",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Real-Time Vehicle Tracking",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "With our application, you will be able to track and monitor with regular notifications about the ride you paid for, so you can easily plan your schedule knowing when it will arrive or if not",
   },
 ];
 
@@ -62,7 +62,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "ETix could possibly revolutionize the transport sector and I think everyone should give it a chance.",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -70,7 +70,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "The realtime bus tracking is out of this world! With it I'm able to plan my schedules accordingly since I know where the bus is at all time.",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -78,7 +78,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "I personally believe that the AR Navigation used to navigate emergency services to the accident location, will really help.",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
@@ -98,8 +98,8 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Tranported",
+    value: "2M+",
   },
 ];
 
